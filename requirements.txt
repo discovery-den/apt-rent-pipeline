@@ -1,0 +1,13 @@
+accelerate==0.34.2
+flair==0.14.0
+nltk==3.9.1
+pandas==2.2.2
+pip-chill==1.0.3
+protobuf==5.28.0
+pysocks==1.7.1
+sentencepiece==0.2.0
+scikit-learn==1.5.1
+numpy==1.26.4
+torch==2.4.1
+transformers==4.44.2
+joblib==1.4.2

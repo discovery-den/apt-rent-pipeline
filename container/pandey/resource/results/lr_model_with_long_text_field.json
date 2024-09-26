@@ -1,0 +1,8 @@
+{
+    "model_name": "lr_model_with_long_text_field.pkl",
+    "mean_squared_error": 0.07451682325927053,
+    "root_mean_squared_error": 0.27297769736604954,
+    "mean_absolute_error": 0.21600995861455072,
+    "r2_score": 0.9326289759958837,
+    "evaluation_time": 0.4592320919036865
+}
